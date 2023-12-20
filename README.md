@@ -1,8 +1,8 @@
 # Simulator_temperature
 
-![image](Air1.jpg)
-![image](Air2.jpg)
-![image](Air3.jpg)
+![image](image/Air1.jpg)
+![image](image/Air2.jpg)
+![image](image/Air3.jpg)
 
 # GrAPiC 
 
