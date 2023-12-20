@@ -1,3 +1,9 @@
+# Simulator_temperature
+
+![image](Air1.jpg)
+![image](Air2.jpg)
+![image](Air3.jpg)
+
 # GrAPiC 
 
 ## Starting
