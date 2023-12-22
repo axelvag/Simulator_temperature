@@ -1,24 +1,28 @@
 # Simulator_temperature
 
-Simulation de l’équation de la chaleur sur une grille régulière 2D
+Simulation of the heat equation on a regular 2D grid
 
-Équation de la chaleur : une grille avec source de chaleur, mur, air ⇒ évolution de la température
-Notion intuitive du Laplacien : une case veut être de la même température que la moyenne de ses voisines 
-
-C'est une salle vue de haut avec:
- - case noir: mur
- - case bleu: air froid
- - case rouge: air chaud
+It is a room seen from above with:
+ - black box: wall
+ - blue box: cold air
+ - red box: hot air
 
 ![image](image/Air1.jpg)
 
-Lorsque j'augmente la chaleur au centre de la salle:
+When I increase the heat in the center of the room:
 
 ![image](image/Air2.jpg)
 
-Apres avoir laisse la salle refroidir:
+After letting the room cool:
 
 ![image](image/Air3.jpg)
+
+### Notion
+
+Heat equation: a grid with heat source, wall, air ⇒ temperature evolution
+Intuitive notion of the Laplacian: a box wants to be the same temperature as the average of its neighbors
+
+Everything is done in C++ with the GraPic graphics library.
 
 # GrAPiC 
 
