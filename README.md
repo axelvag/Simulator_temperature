@@ -30,6 +30,8 @@ Click on a box to reheat it with the left mouse button ​🖱️​.
 
 The value at the top left is the heat on the square where the mouse is placed.
 
+And the ones at the bottom left are the x and y coordinates of the mouse.
+
 # GrAPiC 
 
 ## Starting
