@@ -24,6 +24,12 @@ Intuitive notion of the Laplacian: a box wants to be the same temperature as the
 
 Everything is done in C++ with the GraPic graphics library.
 
+# Play
+
+Click on a box to reheat it with the left mouse button ​🖱️​.
+
+The value at the top left is the heat on the square where the mouse is placed.
+
 # GrAPiC 
 
 ## Starting
