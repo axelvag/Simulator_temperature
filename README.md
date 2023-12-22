@@ -1,5 +1,10 @@
 # Simulator_temperature
 
+Simulation de l’équation de la chaleur sur une grille régulière 2D
+
+Équation de la chaleur : une grille avec source de chaleur, mur, air ⇒ évolution de la température
+Notion intuitive du Laplacien : une case veut être de la même température que la moyenne de ses voisines 
+
 ![image](image/Air1.jpg)
 ![image](image/Air2.jpg)
 ![image](image/Air3.jpg)
