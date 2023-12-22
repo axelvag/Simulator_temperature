@@ -32,6 +32,13 @@ The value at the top left is the heat on the square where the mouse is placed.
 
 And the ones at the bottom left are the x and y coordinates of the mouse.
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Simulator_temperature
+```
+
 # GrAPiC 
 
 ## Starting
