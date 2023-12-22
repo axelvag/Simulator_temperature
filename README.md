@@ -9,7 +9,7 @@ It is a room seen from above with:
 
 ![image](image/Air1.jpg)
 
-When I increase the heat in the center of the room:
+When I increase the heat in the center and in the top of the room:
 
 ![image](image/Air2.jpg)
 
