@@ -5,8 +5,19 @@ Simulation de l’équation de la chaleur sur une grille régulière 2D
 Équation de la chaleur : une grille avec source de chaleur, mur, air ⇒ évolution de la température
 Notion intuitive du Laplacien : une case veut être de la même température que la moyenne de ses voisines 
 
+C'est une salle vue de haut avec:
+ - case noir: mur
+ - case bleu: air froid
+ - case rouge: air chaud
+
 ![image](image/Air1.jpg)
+
+Lorsque j'augmente la chaleur au centre de la salle:
+
 ![image](image/Air2.jpg)
+
+Apres avoir laisse la salle refroidir:
+
 ![image](image/Air3.jpg)
 
 # GrAPiC 
